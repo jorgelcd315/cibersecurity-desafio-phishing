@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Phishing para captura de senhas do Facebook</title>
+   <!-- <title>Phishing para captura de senhas do Facebook</title> -->
 </head>
 <body>
     <h1>Phishing para captura de senhas do Facebook</h1>
