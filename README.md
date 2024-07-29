@@ -6,7 +6,7 @@
    <!-- <title>Phishing para captura de senhas do Facebook</title> -->
 </head>
 <body>
-    <h1>Phishing para captura de senhas do Facebook</h1>
+    <h1>Phishing para captura de senhas do Instagram</h1>
     <h2>Ferramentas</h2>
     <ul>
         <li>Kali Linux</li>
